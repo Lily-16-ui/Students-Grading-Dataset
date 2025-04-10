@@ -14,7 +14,10 @@
 
 ### Project Overview
 
-This project aims to give insights into the academic perfromance of students under some external factors. By analyzing the data we hope to identify trends andmake guided recommendations to properly understand the students performance. 
+This project aims to give insights into the academic perfromance of students under some external factors. By analyzing the data we hope to identify trends andmake guided recommendations to properly understand the students performance.
+
+![Screenshot 2025-04-10 114815](https://github.com/user-attachments/assets/0677ebfc-026e-43b2-bbee-5470845087f6)
+
 
 ### Data Sources
 
