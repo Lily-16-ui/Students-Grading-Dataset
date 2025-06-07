@@ -14,7 +14,7 @@
 
 ### Project Overview
 
-This project aims to give insights into the academic perfromance of students under some external factors. By analyzing the data we hope to identify trends andmake guided recommendations to properly understand the students performance.
+This project aims to give insights into the academic perfromance of students under some external factors. By analyzing the data we hope to identify trends and make guided recommendations to properly understand the students performance.
 
 ![Screenshot 2025-04-10 114815](https://github.com/user-attachments/assets/0677ebfc-026e-43b2-bbee-5470845087f6)
 
@@ -29,8 +29,8 @@ Students Data: The primary dataset used for this analysis is the "Students_Gradi
 
 ### Data Cleaning
 
-In the initial data preparation pjase, we performed the following tasks:
-1. Autofit the row height and column width
+In the initial data preparation phase, we performed the following tasks:
+1. Autofited the row height and column width
 2. Removed duplicates
 3. Found blanks and replaced them with N/A
 4. Formatted headers and created tables
